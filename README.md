@@ -4,5 +4,5 @@ A simple underwater puzzle game where the user has to find the special key to ex
 Download the 1.0 Release
 <h1>Features</h1><br>
 Gameplay Mechanics: Side-Scroller movement, interactable objects, Collecting System
-<h1>Tech Stack:</> 
+<h1>Tech Stack:</h1> 
 Unity, C++
